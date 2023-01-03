@@ -1,0 +1,14 @@
+h3{
+    color: red;
+    background-color: yellow;
+    height: 80px;
+    width:70%;
+    text-decoration: underline;
+}
+
+p{
+    color: blue;
+    background-color: chartreuse;
+    text-align:justify;
+    text-decoration: dotted;  
+}
