@@ -4,6 +4,8 @@ h3{
     height: 80px;
     width:70%;
     text-decoration: underline;
+    border: 5px solid black;
+    margin: 30px;
 }
 
 p{
@@ -11,4 +13,6 @@ p{
     background-color: chartreuse;
     text-align:justify;
     text-decoration: dotted;  
+    box-shadow: 10px solid pink;
+    
 }
