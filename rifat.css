@@ -12,7 +12,8 @@ p{
     color: blue;
     background-color: chartreuse;
     text-align:justify;
-    text-decoration: dotted;  
-    box-shadow: 10px solid pink;
-    
+    text-decoration: dotted;
+    box-shadow: 10px ;
+    border: 10px solid palevioletred;
+    border-radius: 20px;
 }
